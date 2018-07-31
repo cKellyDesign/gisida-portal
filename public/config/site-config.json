@@ -1,0 +1,31 @@
+{
+    "APP": {
+      "mapConfig": {
+        "container": "map",
+        "style": "mapbox://styles/ona/cj50x94t60tlf2rn6r4axcsqz",
+        "center": [
+          92.1,
+          21.15
+        ],
+        "zoom": 11.5
+      },
+      "accessToken": "pk.eyJ1Ijoib25hIiwiYSI6IlVYbkdyclkifQ.0Bz-QOOXZZK01dq4MuMImQ",
+      "apiAccessToken": "ed72121e23f5318d2eff4180f882dddf35b37b96",
+      "appIcon": "/assets/img/logo.png",
+      "appColor": "#0099ff",
+      "appName": "SAND BOX",
+      "appNameDesc": "A development area for GISIDA"
+    },
+    "STYLES": [
+      {
+        "label": "Default",
+        "url": "mapbox://styles/ona/cj50x94t60tlf2rn6r4axcsqz"
+      }, 
+      {
+        "label": "Satellite Streets",
+        "url": "mapbox://styles/mapbox/satellite-streets-v9"
+      }
+    ],
+    "LAYERS": {}
+  }
+  
